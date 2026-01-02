@@ -6,4 +6,4 @@ Here's what I'm working on:
  - [a Pygame raycaster](https://www.youtube.com/watch?v=r8ig5ALmOxc) utilizing Pygame-CE.
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomatophu&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomatofoo&show_icons=true&theme=transparent)
